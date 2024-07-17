@@ -1,2 +1,9 @@
 # go_tree
-Windows用のTreeコマンド
+Windowsでtree表示を行う
+
+## Install
+
+```
+go install github.com/kznagamori/go_tree@latest
+```
+
